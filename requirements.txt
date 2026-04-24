@@ -1,0 +1,12 @@
+groq
+dotenv
+langchain-groq
+ipykernel
+langchain
+langchain-core
+langchain-community
+sentence-transformers
+ipywidgets
+pypdf
+langchain-text-splitters
+python-dotenv
